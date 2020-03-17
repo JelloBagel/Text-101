@@ -1,0 +1,9 @@
+README.md
+.vs
+Library
+UnityPackageManager
+UnityPlayer.dll
+Text101*
+
+!Assets
+!ProjectSettings
